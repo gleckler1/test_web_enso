@@ -17,7 +17,7 @@ Text text text....
 ---
 
 ## Reference
-> REF
+> Bellenger, H., Guilyardi, E., Leloup, J. et al. Clim Dyn (2014) 42: 1999. https://doi.org/10.1007/s00382-013-1783-z
 
 
 [sperber2004]: https://doi.org/10.1007/s00382-014-2099-3
